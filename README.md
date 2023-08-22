@@ -29,7 +29,7 @@
 **List of commands for Github**:
 1. `git add README.md`
 2. `git add .`
-3. `git commit -m "HW1, Task 1 Finished"`
+3. `git commit -m "HW2, Task 1 Finished"`
 4. `git push -u origin main`
 
 ---
@@ -43,7 +43,7 @@
 
 **List of commands for Github**:
 1. `git add .`
-2. `git commit -m "HW1, Task 1 Finished"`
+2. `git commit -m "HW2, Task 2 Finished"`
 3. `git push -u origin main`
 ---
 3. [Система мониторинга Zabbix. Часть 2](hw-03.md)
