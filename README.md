@@ -41,6 +41,10 @@
 ![HW2 point 2](http://screenshot.alarislabs.com/ib2024/image_20230823001906_c7340fd1.png)
 ![HW2 point 3](http://screenshot.alarislabs.com/ib2024/image_20230823001459_733e1761.png)
 
+**List of commands for Github**:
+1. `git add .`
+2. `git commit -m "HW1, Task 1 Finished"`
+3. `git push -u origin main`
 ---
 3. [Система мониторинга Zabbix. Часть 2](hw-03.md)
 
