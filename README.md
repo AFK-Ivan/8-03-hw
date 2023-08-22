@@ -35,7 +35,13 @@
 ---
 
 ### Задание 2
+`Прикладываю скриншоты выполненых заданий`
 
+![HW2 point 1](http://screenshot.alarislabs.com/ib2024/image_20230823001711_d4ef1e53.png)
+![HW2 point 2](http://screenshot.alarislabs.com/ib2024/image_20230823001906_c7340fd1.png)
+![HW2 point 3](http://screenshot.alarislabs.com/ib2024/image_20230823001459_733e1761.png)
+
+---
 3. [Система мониторинга Zabbix. Часть 2](hw-03.md)
 
 4. [Система мониторинга Prometheus](hw-04.md)
