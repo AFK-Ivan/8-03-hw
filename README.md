@@ -26,7 +26,7 @@
 `Прикладываю скриншот выполненного задания 1`
 ![Homework 1 task](http://screenshot.alarislabs.com/ib2024/image_20230822232750_7abd67e4.png)`
 
-'List of commands for Github'
+List of commands for Github
 	1. git add README.md
 	2. git add .
 	3. git commit -m "HW1, Task 1 Finished"
