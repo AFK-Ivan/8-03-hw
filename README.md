@@ -54,9 +54,18 @@
 `Прикладываю скриншот выполненного задания 1`
 
 ![HW3 task 1](http://screenshot.alarislabs.com/ib2024/image_20230903220158_d90a694b.png)
+
+### Задание 2
+
 ![HW3 task 2.3](http://screenshot.alarislabs.com/ib2024/image_20230903213437_d0cea7e6.png)
 ![HW3 task 2.6](http://screenshot.alarislabs.com/ib2024/image_20230903214239_d0291fc8.png)
+
+### Задание 3
+
 ![HW3 task 3](http://screenshot.alarislabs.com/ib2024/image_20230903220258_a5a849f2.png)
+
+### Задание 4
+
 ![HW3 task 4](http://screenshot.alarislabs.com/ib2024/image_20230903214605_5c3a0d76.png)
 
 **List of commands for Github**:
