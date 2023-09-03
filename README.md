@@ -70,7 +70,7 @@
 
 **List of commands for Github**:
 1. `git add .`
-2. `git commit -m "HW2, Task 2 Finished"`
+2. `git commit -m "HW3, Tasks Finished"`
 3. `git push -u origin main`
 ---
 4. [Система мониторинга Prometheus](hw-04.md)
@@ -94,6 +94,12 @@
 `Прикладываю скриншот выполненного задания 3, Node Exporter подключен к Prometheus`
 
 ![HW4 task 3](http://screenshot.alarislabs.com/ib2024/image_20230903230142_38f3ac08.png)
+
+**List of commands for Github**:
+1. `git add .`
+2. `"HW4, all tasks are finished"`
+3. `git push -u origin main`
+
 ---
 
 5. [Система мониторинга Prometheus. Часть 2](hw-05.md)
