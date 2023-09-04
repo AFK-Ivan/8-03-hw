@@ -101,5 +101,31 @@
 3. `git push -u origin main`
 
 ---
-
 5. [Система мониторинга Prometheus. Часть 2](hw-05.md)
+
+### Решение 
+
+### Задание 1
+
+`Прикладываю скриншот выполненного задания 1, где видно действующее правило оповещения`
+
+![HW5 task 1](http://screenshot.alarislabs.com/ib2024/image_20230904124256_bbd29e26.png)
+
+### Задание 2
+
+`Прикладываю скриншот Alerts из Prometheus, где видно правило оповещения в статусе Fireing, и скриншот из Alertmanager, где видно действующее правило оповещения`
+
+![HW5 task 2.1](http://screenshot.alarislabs.com/ib2024/image_20230904124436_0ed78bab.png)
+![HW5 task 2.2](http://screenshot.alarislabs.com/ib2024/image_20230904124546_909c2e4f.png)
+
+### Задание 3
+
+`Прикладываю скриншот браузера с открытым эндпоинтом, а также скриншот списка таргетов из интерфейса Prometheus.*`
+
+![HW5 task 3.1](http://screenshot.alarislabs.com/ib2024/image_20230904125703_461cfcf5.png)
+![HW5 task 3.2](http://screenshot.alarislabs.com/ib2024/image_20230904125835_b7f7b7f6.png)
+
+**List of commands for Github**:
+1. `git add .`
+2. `git commit -m "HW5, All tasks are finished"`
+3. `git push -u origin main`
